@@ -38,7 +38,7 @@ Visual trends for better business understanding
 
 User-friendly layout for quick insights
 
-   Templete 1 : ![Dashboard Preview](https://github.com/sahilchavan45/Ola-Project-SQL-Power-BI/blob/main/Snapshot%20of%20The%20Dashboard%201.png)
+   Templete 1 : ![Dashboard Preview](https://github.com/sahilchavan45/Wellness_Hoispitals_Leads_Flow_Dashboard-Healthcare-Project-/blob/main/Dashboard%20Snapshot.png)
 
 
 
